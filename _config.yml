@@ -1,0 +1,17 @@
+title: <p align="center"> Sreejith Mohanan </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sreejithmohanan4/">LinkedIn</a> |
+  <a href="https://github.com/sreejith-mohanan">GitHub</a>
+  
+  <br>   
+  Creating Impactful AI/ML Solutions ~ Driving Innovation & Business Success
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
